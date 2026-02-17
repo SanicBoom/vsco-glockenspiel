@@ -1,0 +1,14 @@
+{
+  "name": "vsco-glockenspiel",
+  "version": "1.0.0",
+  "license": "CC0-1.0",
+  "attribution": "VSCO 2 Community Edition by Versilian Studios",
+  "samples": {
+    "glock_medium_c5": "glock_medium_C5.wav",
+    "glock_medium_c6": "glock_medium_C6.wav",
+    "glock_medium_c7": "glock_medium_C7.wav",
+    "glock_medium_g4": "glock_medium_G4.wav",
+    "glock_medium_g5": "glock_medium_G5.wav",
+    "glock_medium_g6": "glock_medium_G6.wav"
+  }
+}
