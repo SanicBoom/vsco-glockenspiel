@@ -10,5 +10,43 @@
     "glock_medium_g4": "glock_medium_G4.wav",
     "glock_medium_g5": "glock_medium_G5.wav",
     "glock_medium_g6": "glock_medium_G6.wav"
-  }
+  },
+  "noteMap": [
+    {
+      "note": "G4",
+      "sample": "glock_medium_g4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C5",
+      "sample": "glock_medium_c5",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G5",
+      "sample": "glock_medium_g5",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C6",
+      "sample": "glock_medium_c6",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G6",
+      "sample": "glock_medium_g6",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C7",
+      "sample": "glock_medium_c7",
+      "loVel": 0,
+      "hiVel": 127
+    }
+  ]
 }
